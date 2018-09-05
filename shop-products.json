@@ -1,0 +1,21 @@
+{
+
+  "users": {
+
+ 	"user1": {
+ 		"username": "Baptiste",
+ 		"role": "Designer",
+ 		"location": "London",
+ 		"age": "29"
+ 	},
+
+ 	 "user2": {
+ 		"username": "Etienne",
+ 		"role": "Dev",
+ 		"location": "Toulouse",
+ 		"age": "37"
+ 	},
+
+  }
+
+}
